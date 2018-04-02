@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Investi Nice</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_lancamentos" translatable="false">Lançamentos</string>
+    <string name="title_activity_grafico" translatable="false">Gráfico</string>
+    <string name="title_activity_receita" translatable="false">Receita</string>
+    <string name="title_activity_adicionar_lancamento" translatable="false">Adicionar Lançamento</string>
+    <string name="title_activity_visualizar" translatable="false">Visualização</string>
+    <string name="title_activity_adicionar_categoria">Adicionar Categoria</string>
+    <string name="title_activity_categoria">CategoriaActivity</string>
+    <string name="title_activity_categoria_modificacao">CategoriaModificacaoActivity</string>
+</resources>
